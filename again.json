@@ -1,0 +1,14 @@
+{
+	"id": "AGAIN",
+	"name": "AGAIN!",
+	"display_name": "AGAIN!",
+	"author": ["Tis_awesomeness"],
+	"description": "Armed and dangerous!",
+	"prefix": "again",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "dcc534",
+	"badge_text_colour": "ffffff",
+	"version": "1.0.0",
+	"dependencies": []
+}
